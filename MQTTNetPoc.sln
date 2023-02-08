@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQTTNetPoc.Broker", "MQTTFirstLook.Broker\MQTTNetPoc.Broker.csproj", "{84F9F2D0-9932-4B80-ACF1-1337FCF04D8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQTTNetPoc.Broker", "Broker\MQTTNetPoc.Broker.csproj", "{84F9F2D0-9932-4B80-ACF1-1337FCF04D8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQTTNetPoc.Client", "MQTTFirstLook.Client\MQTTNetPoc.Client.csproj", "{1151928A-781A-4C8D-82B8-C23BF9577372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MQTTNetPoc.Client", "Client\MQTTNetPoc.Client.csproj", "{1151928A-781A-4C8D-82B8-C23BF9577372}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
